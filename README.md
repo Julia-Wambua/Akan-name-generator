@@ -16,8 +16,8 @@ This project aims at showcasing aquired skills such as:
      
 ## Setup/Installation Requirements
 * Download the repository from GitHub
-* Open the project folder using Visual Studio Code.
 * Ensure the presence of index.html, style.css and an image used in creation of the website.
+* Click on the live site on the repository.
   
 ## Known Bugs
 At the moment, there are no known bugs. In case of their discovery, feel free to rach out or offer ideas on improvements that can be made.
