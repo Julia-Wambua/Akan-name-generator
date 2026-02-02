@@ -1,4 +1,4 @@
-document.getElementById("akanForm").addEventListener("submit", function (e) {
+document.getElementById("inputform").addEventListener("submit", function (e) {
   e.preventDefault();
 
   const birthdateInput = document.getElementById("birthdate").value;
@@ -53,3 +53,4 @@ document.getElementById("akanForm").addEventListener("submit", function (e) {
 
   result.textContent = `Your Akan name is ${akanName}`;
 });
+
