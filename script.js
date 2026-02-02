@@ -2,7 +2,7 @@ document.getElementById("inputform").addEventListener("submit", function (e) {
   e.preventDefault();
 
   const birthdateInput = document.getElementById("birthdate").value;
-  const gender = document.getElementById("gender").value;
+  const gender = document.getElementById("male,female,other").value;
   const error = document.getElementById("error");
   const result = document.getElementById("result");
 
@@ -54,7 +54,9 @@ document.getElementById("inputform").addEventListener("submit", function (e) {
 
   document.getElementById("akanName").textContent = akanName;
   document.getElementById("akannameoutput").scrollIntoView({
+     behavior: "smooth"
 });
+
 
 
 
