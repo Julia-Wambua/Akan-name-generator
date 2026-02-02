@@ -1,0 +1,54 @@
+h1{
+    font-size: xxx-large;
+    font-weight: 400;
+    font-family: serif;
+    font-style: normal;
+    text-align: center;
+   
+}
+
+p{
+    font-family: cursive;
+    font-weight: 400;
+    color: rgb(5, 5, 5);
+    font-size: x-large;
+}
+
+.card{
+    display: flex;
+    text-align: center;
+    font-size: xx-large;
+}
+
+img{
+    border-radius: 50px;
+    height: 300px;
+
+}
+   
+body{
+    background-color: rgb(218, 241, 250);
+}
+
+#inputform{
+    font-size: xx-large;
+}
+
+button{
+    width: 300px;
+    height: 40px;
+}
+
+input{
+    width: 300px;
+    height: 40px;
+}
+
+section{
+    font-size: x-large;
+}
+
+#inputform{
+    text-align: left;
+}
+
