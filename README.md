@@ -1,8 +1,9 @@
 # Akan Name Generator
 #### This is a student html project: Demonstrating the use of html,css and javascript in web design, 02/02/2026
 #### By **Wambua Julia Mwende**
-## Live site
 
+## Live site
+https://julia-wambua.github.io/Akan-name-generator/
 
 ## Description
 This is a name generator website that uses user input (birthdate and gender) to generate an akan name,which is a ghanian name based on the day of the week one was born and their gender,for the user.
