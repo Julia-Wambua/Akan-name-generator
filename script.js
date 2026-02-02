@@ -51,6 +51,9 @@ document.getElementById("inputform").addEventListener("submit", function (e) {
     akanName = femaleNames[day];
   }
 
-  result.textContent = `Your Akan name is ${akanName}`;
+
+  document.getElementById("akanName").textContent = akanName;
+  document.getElementById("akannameoutput").scrollIntoView({
 });
+
 
